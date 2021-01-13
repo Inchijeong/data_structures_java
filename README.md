@@ -27,13 +27,13 @@
 :bookmark_tabs: 바로가기
 
 * engineer_korea
-  * [array_list](/engineer_korea/array_list/)
-  * [graph](/engineer_korea/graph/)
-  * [hashtable](/engineer_korea/hashtable/)
-  * [linked_list](/engineer_korea/linked_list/)
-  * [queue](/engineer_korea/queue/)
-  * [stack](/engineer_korea/stack/)
-  * [tree](/engineer_korea/tree/)
+  * [array_list](src/engineer_korea/array_list/)
+  * [graph](src/engineer_korea/graph/)
+  * [hashtable](src/engineer_korea/hashtable/)
+  * [linked_list](src/engineer_korea/linked_list/)
+  * [queue](src/engineer_korea/queue/)
+  * [stack](src/engineer_korea/stack/)
+  * [tree](src/engineer_korea/tree/)
 * my
   * [array_list](src/my/array_list/)
   * [graph](src/my/graph/)
@@ -42,8 +42,6 @@
   * [queue](src/my/queue/)
   * [stack](src/my/stack/)
   * [tree](src/my/tree/)
-
-
 
 
 
