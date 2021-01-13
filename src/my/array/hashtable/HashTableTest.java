@@ -1,4 +1,4 @@
-package my.array;
+package my.array.hashtable;
 
 import java.util.LinkedList;
 
