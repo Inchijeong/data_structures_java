@@ -1,4 +1,4 @@
-package engineer_korea.list;
+package engineer_korea.linked_list;
 
 class LinkedList{
 	Node header;

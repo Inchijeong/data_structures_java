@@ -1,4 +1,4 @@
-package engineer_korea.array;
+package engineer_korea.array_list;
 
 class ArrayList{
 	private Object[] data;

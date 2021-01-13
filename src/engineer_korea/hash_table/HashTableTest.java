@@ -1,4 +1,4 @@
-package engineer_korea.array;
+package engineer_korea.hash_table;
 
 import java.util.LinkedList;
 
