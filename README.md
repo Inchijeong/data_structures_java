@@ -5,15 +5,23 @@
 
 :file_folder: 패키지 구조​
 
-```
-├─engineer_korea : 엔지니어대한민국 구현 코드
-│  ├─array
+```java
+├─engineer_korea: 엔지니어대한민국 구현 코드
+│  ├─array_list
 │  ├─graph
-│  ...
-└─my             : 정리한 코드
-    ├─array
+│  ├─hash_table
+│  ├─linked_list
+│  ├─queue
+│  ├─stack
+│  └─tree
+└─my            : 정리한 코드
+    ├─array_list
     ├─graph
-	...
+    ├─hashtable
+    ├─linked_list
+    ├─queue
+    ├─stack
+    └─tree
 ```
 
 
