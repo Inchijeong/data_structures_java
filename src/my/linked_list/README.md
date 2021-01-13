@@ -16,7 +16,7 @@
 
 
 
-![1_LinkedList vs Array](1_LinkedList vs Array.png)
+![1_연결리스트 vs 배열](1_연결리스트 vs 배열.png)
 
 ※ 위 그림의 주소는 다음 노드의 주소를 가리킨다.
 
