@@ -104,7 +104,7 @@ HashCode % size => Index
 
 
 
-![1_HashTable](1_HashTable.png)
+![1_HashTable](img/1_HashTable.png)
 
 
 

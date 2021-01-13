@@ -38,7 +38,7 @@ vertex는 정점, edge는 정점과 정점을 연결하는 간선이다.
 
 
 
-![1_그래프](1_그래프.png)
+![1_그래프](img/1_그래프.png)
 
 > 참조 - 트리도 그래프의 한 종류이다.
 >
@@ -54,7 +54,7 @@ vertex는 정점, edge는 정점과 정점을 연결하는 간선이다.
 
 
 
-![2_directed](2_directed.png)
+![2_directed](img/2_directed.png)
 
 
 
@@ -65,7 +65,7 @@ vertex는 정점, edge는 정점과 정점을 연결하는 간선이다.
 
 
 
-![3_Cyclic](3_Cyclic.png)
+![3_Cyclic](img/3_Cyclic.png)
 
 
 
@@ -87,7 +87,7 @@ vertex는 정점, edge는 정점과 정점을 연결하는 간선이다.
 
 
 
-![4_adjacencyMatrix](4_adjacencyMatrix.png)
+![4_adjacencyMatrix](img/4_adjacencyMatrix.png)
 
 
 
@@ -105,7 +105,7 @@ vertex는 정점, edge는 정점과 정점을 연결하는 간선이다.
 
 
 
-![5_adjacencyList](5_adjacencyList.png)
+![5_adjacencyList](img/5_adjacencyList.png)
 
 엣지의 개수 m(위 예제에서는 4)
 
@@ -137,7 +137,7 @@ Binary Tree를 검색할때 사용했던 아래 3개가 DFS에 속한다.
 
 
 
-![1_DFS](1_DFS.png)
+![1_DFS](img/1_DFS.png)
 
 
 
@@ -147,7 +147,7 @@ Binary Tree를 검색할때 사용했던 아래 3개가 DFS에 속한다.
 
 
 
-![2_BFS](2_BFS.png)
+![2_BFS](img/2_BFS.png)
 
 
 
@@ -157,7 +157,7 @@ Binary Tree를 검색할때 사용했던 아래 3개가 DFS에 속한다.
 
 
 
-![3_DFSvsBFS](3_DFSvsBFS.png)
+![3_DFSvsBFS](img/3_DFSvsBFS.png)
 
 
 
@@ -181,7 +181,7 @@ Binary Tree를 검색할때 사용했던 아래 3개가 DFS에 속한다.
 
 
 
-![4_DFS과정](4_DFS과정.gif)
+![4_DFS과정](img/4_DFS과정.gif)
 
 
 
@@ -199,7 +199,7 @@ Binary Tree를 검색할때 사용했던 아래 3개가 DFS에 속한다.
 
 
 
-![5_BFS과정](5_BFS과정.gif)
+![5_BFS과정](img/5_BFS과정.gif)
 
 
 
@@ -232,7 +232,7 @@ DFS는 재귀를 통해 보다 쉽게 구현할 수 있다.
 
 
 
-![6_DFS_Recursion](6_DFS_Recursion.png)
+![6_DFS_Recursion](img/6_DFS_Recursion.png)
 
 
 

@@ -11,7 +11,7 @@
 
 
 
-![Queue](Queue.png)
+![Queue](img/Queue.png)
 
 
 
