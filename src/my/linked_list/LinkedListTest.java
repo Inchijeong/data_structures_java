@@ -1,4 +1,4 @@
-package my.list;
+package my.linked_list;
 
 class LinkedList{
 	Node header;

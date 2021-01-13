@@ -1,4 +1,4 @@
-package my.array;
+package my.array_list;
 
 class ArrayList{
 	private Object[] data;
