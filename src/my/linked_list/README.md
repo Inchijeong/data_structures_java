@@ -16,7 +16,7 @@
 
 
 
-![1_연결리스트 vs 배열](1_연결리스트 vs 배열.png)
+![1_연결리스트 vs 배열](./1_연결리스트 vs 배열.png)
 
 ※ 위 그림의 주소는 다음 노드의 주소를 가리킨다.
 
@@ -36,7 +36,7 @@
 
 
 
-![2_LinkedList Node 추가](2_LinkedList Node 추가.png)
+![2_LinkedList Node 추가](./2_LinkedList Node 추가.png)
 
 
 
@@ -47,7 +47,7 @@
 
 
 
-![3_LinkedList Node 삭제](3_LinkedList Node 삭제.png)
+![3_LinkedList Node 삭제](./3_LinkedList Node 삭제.png)
 
 
 
@@ -68,13 +68,13 @@
 
 
 
-![1_단방향 vs 양방향](1_단방향 vs 양방향.png)
+![1_단방향 vs 양방향](./1_단방향 vs 양방향.png)
 
 
 
 ## 양방향 연결 리스트 노드 추가 및 삭제
 
-![2_양방향 노드 추가삭제](2_양방향 노드 추가삭제.png)
+![2_양방향 노드 추가삭제](./2_양방향 노드 추가삭제.png)
 
 
 
