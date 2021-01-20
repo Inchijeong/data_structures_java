@@ -36,7 +36,7 @@ class GraphDFSR extends Graph {
 DFS(0) - Recursive
 0 1 2 4 3 5 6 8 7
 ------------------
-DFS(0) - Recursive
+DFS(3) - Recursive
 3 1 0 2 4 5 6 8 7
 ------------------
 */
